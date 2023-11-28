@@ -2,7 +2,7 @@
 Este repositorio contiene el código fuente y los archivos relacionados con mi proyecto de laboratorio de Programación 1, donde se desarrolló un juego de memorama en lenguaje C.
 <hr>
 <div align="center">
-  <h2>Para la realización del juego se utilizo: </h2>
+  <h2>Para la Realización del Juego se Utilizo: </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40px">
 </div>
 <hr>
