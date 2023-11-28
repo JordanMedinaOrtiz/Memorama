@@ -1,5 +1,5 @@
 <h1 align="center">Memorama</h1>
-Este repositorio contiene el código fuente y los archivos relacionados con mi proyecto de laboratorio de Programación 1, donde se desarrolló un juego de memorama en el lenguaje C.
+Este repositorio contiene el código fuente y los archivos relacionados con mi proyecto de laboratorio de Programación 1, donde se desarrolló un juego de memorama en lenguaje C.
 <hr>
 <div align="center">
   <h2>Para la realización del juego se utilizo: </h2>
